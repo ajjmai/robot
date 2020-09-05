@@ -6,4 +6,4 @@ You can find the model solution [here](https://mimmitkoodaa.ohjelmistoebusiness.
 
 # Running the code
 
-Command line: `robot ./testi.robot
+Command line: robot ./testi.robot
